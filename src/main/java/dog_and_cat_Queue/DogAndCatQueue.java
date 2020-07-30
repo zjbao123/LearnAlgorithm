@@ -2,8 +2,6 @@ package dog_and_cat_Queue;
 
 
 
-import dog_and_cat_Queue.Cat;
-import dog_and_cat_Queue.Dog;
 
 import java.util.LinkedList;
 import java.util.Queue;

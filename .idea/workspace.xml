@@ -2,31 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03695dff-3be9-4e9a-9197-8a70b7ee22d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnAlgorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnAlgorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnAlgorithm/TEST/DogAndCatQueueTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnAlgorithm/dog_and_cat_Queue/DogAndCatQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnAlgorithm/dog_and_cat_Queue/DogAndCatQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnAlgorithm/dog_and_cat_Queue/PetQUeue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnAlgorithm/dog_and_cat_Queue/PetQUeue.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TEST/DogAndCatQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/DogAndCatQueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dog_and_cat_Queue/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dog_and_cat_Queue/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dog_and_cat_Queue/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dog_and_cat_Queue/DogAndCatQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dog_and_cat_Queue/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dog_and_cat_Queue/PetQUeue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dog_and_cat_Queue/README.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,7 +54,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.21323529" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -91,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DogAndCatQueueTest">
+  <component name="RunManager" selected="JUnit.DogAndCatQueueTest (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -121,30 +107,6 @@
       <option name="MAIN_CLASS_NAME" value="dog_and_cat_Queue.DogAndCatQueueTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Manual container configuration: DogAndCatQueueTest.add" type="ArquillianJUnit" factoryName="" temporary="true" nameIsGenerated="true">
-      <module name="LearnAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.dog_and_cat_Queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="Manual container configuration" />
-        </value>
-      </option>
-      <option name="PACKAGE_NAME" value="dog_and_cat_Queue" />
-      <option name="MAIN_CLASS_NAME" value="dog_and_cat_Queue.DogAndCatQueueTest" />
-      <option name="METHOD_NAME" value="add" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -243,6 +205,16 @@
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
       <method v="2" />
+    </configuration>
+    <configuration name="DogAndCatQueueTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnAlgorithm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DogAndCatQueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="DogAndCatQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
@@ -363,19 +335,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Arquillian JUnit.Manual container configuration: DogAndCatQueueTest.add" />
       <item itemvalue="Arquillian JUnit.Manual container configuration: DogAndCatQueueTest" />
       <item itemvalue="JUnit.DogAndCatQueueTest.pollall" />
       <item itemvalue="JUnit.DogAndCatQueueTest.add" />
       <item itemvalue="JUnit.DogAndCatQueueTest" />
+      <item itemvalue="JUnit.DogAndCatQueueTest (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DogAndCatQueueTest (1)" />
         <item itemvalue="JUnit.DogAndCatQueueTest" />
         <item itemvalue="JUnit.DogAndCatQueueTest.pollall" />
         <item itemvalue="JUnit.DogAndCatQueueTest.add" />
         <item itemvalue="Arquillian JUnit.Manual container configuration: DogAndCatQueueTest" />
-        <item itemvalue="Arquillian JUnit.Manual container configuration: DogAndCatQueueTest.add" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +362,7 @@
       <option name="presentableId" value="Default" />
       <updated>1542897851838</updated>
       <workItem from="1542897856320" duration="5519000" />
-      <workItem from="1596114617805" duration="1595000" />
+      <workItem from="1596114617805" duration="2387000" />
     </task>
     <servers />
   </component>

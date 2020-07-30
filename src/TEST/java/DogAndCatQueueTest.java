@@ -1,9 +1,7 @@
-package TEST;
-
-import main.java.dog_and_cat_Queue.Cat;
+import dog_and_cat_Queue.Cat;
+import dog_and_cat_Queue.Dog;
+import dog_and_cat_Queue.DogAndCatQueue;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * Created by zjbao on 2018/11/22.
