@@ -1,7 +1,6 @@
 package TEST;
 
-import com.sun.org.apache.bcel.internal.generic.NEW;
-import dog_and_cat_Queue.*;
+import main.java.dog_and_cat_Queue.Cat;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
