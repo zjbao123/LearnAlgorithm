@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03695dff-3be9-4e9a-9197-8a70b7ee22d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TEST/java/GetMinStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/getMinSatck/GetMInStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/getMinSatck/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TEST/java/QueueOfStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QueueOfStack/QueueOfStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QueueOfStack/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GetMinStackTest.test">
+  <component name="RunManager" selected="JUnit.QueueOfStackTest.test">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -216,23 +216,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogAndCatQueueTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LearnAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TEST.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TEST" />
-      <option name="MAIN_CLASS_NAME" value="TEST.DogAndCatQueueTest" />
-      <option name="METHOD_NAME" value="add" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DogAndCatQueueTest.pollall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
       <extension name="coverage">
@@ -254,6 +237,17 @@
       <module name="LearnAlgorithm" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="GetMinStackTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueOfStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnAlgorithm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QueueOfStackTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -331,18 +325,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.DogAndCatQueueTest.pollall" />
-      <item itemvalue="JUnit.DogAndCatQueueTest.add" />
       <item itemvalue="JUnit.DogAndCatQueueTest" />
       <item itemvalue="JUnit.DogAndCatQueueTest (1)" />
       <item itemvalue="JUnit.GetMinStackTest.test" />
+      <item itemvalue="JUnit.QueueOfStackTest.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.QueueOfStackTest.test" />
         <item itemvalue="JUnit.GetMinStackTest.test" />
         <item itemvalue="JUnit.DogAndCatQueueTest (1)" />
         <item itemvalue="JUnit.DogAndCatQueueTest" />
         <item itemvalue="JUnit.DogAndCatQueueTest.pollall" />
-        <item itemvalue="JUnit.DogAndCatQueueTest.add" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +351,8 @@
       <option name="presentableId" value="Default" />
       <updated>1542897851838</updated>
       <workItem from="1542897856320" duration="5519000" />
-      <workItem from="1596114617805" duration="4326000" />
+      <workItem from="1596114617805" duration="4459000" />
+      <workItem from="1596290284172" duration="1243000" />
     </task>
     <servers />
   </component>
@@ -372,7 +367,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
