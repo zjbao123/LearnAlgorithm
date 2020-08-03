@@ -1,4 +1,4 @@
-import QueueOfStack.QueueOfStack;
+import queueOfStack.QueueOfStack;
 import org.junit.Test;
 
 /**
