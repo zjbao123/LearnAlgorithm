@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03695dff-3be9-4e9a-9197-8a70b7ee22d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TEST/java/reveseStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reverseStack/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reverseStack/ReverseStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TEST/java/QueueOfStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/java/QueueOfStackTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/QueueOfStack/QueueOfStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queueOfStack/QueueOfStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/QueueOfStack/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queueOfStack/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/QueueOfStack/QueueOfStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/QueueOfStack/QueueOfStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/QueueOfStackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/QueueOfStackTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/java/reveseStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/java/ReverseStackTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.reveseStackTest.test">
+  <component name="RunManager" selected="JUnit.ReverseStackTest.test">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -243,19 +236,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="ReverseStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnAlgorithm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReverseStackTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reveseStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LearnAlgorithm" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="reveseStackTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -327,11 +320,11 @@
       <item itemvalue="JUnit.DogAndCatQueueTest (1)" />
       <item itemvalue="JUnit.GetMinStackTest.test" />
       <item itemvalue="JUnit.QueueOfStackTest.test" />
-      <item itemvalue="JUnit.reveseStackTest.test" />
+      <item itemvalue="JUnit.ReverseStackTest.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.reveseStackTest.test" />
+        <item itemvalue="JUnit.ReverseStackTest.test" />
         <item itemvalue="JUnit.QueueOfStackTest.test" />
         <item itemvalue="JUnit.GetMinStackTest.test" />
         <item itemvalue="JUnit.DogAndCatQueueTest (1)" />
@@ -351,7 +344,7 @@
       <updated>1542897851838</updated>
       <workItem from="1542897856320" duration="5519000" />
       <workItem from="1596114617805" duration="4459000" />
-      <workItem from="1596290284172" duration="4630000" />
+      <workItem from="1596290284172" duration="4713000" />
     </task>
     <servers />
   </component>

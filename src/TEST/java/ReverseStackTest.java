@@ -8,7 +8,7 @@ import java.util.Stack;
  * @version 1.0
  * @since 2020-08-03 23:08:20
  */
-public class reveseStackTest {
+public class ReverseStackTest {
     @Test
     public void test(){
         Stack<Integer> elements = new Stack<Integer>();
