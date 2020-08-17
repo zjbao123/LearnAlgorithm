@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03695dff-3be9-4e9a-9197-8a70b7ee22d6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TEST/java/sortedByStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sortedByStack/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sortedByStack/SortedByStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TEST/java/reveseStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/java/ReverseStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/reveseStackTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseStackTest.test">
+  <component name="RunManager" selected="JUnit.sortedByStackTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -188,32 +191,6 @@
       <setting name="depsClasspath" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="DogAndCatQueueTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LearnAlgorithm" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DogAndCatQueueTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DogAndCatQueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LearnAlgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TEST.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TEST" />
-      <option name="MAIN_CLASS_NAME" value="TEST.DogAndCatQueueTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="GetMinStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
       <option name="PACKAGE_NAME" value="" />
@@ -249,6 +226,27 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortedByStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnAlgorithm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="sortedByStackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortedByStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnAlgorithm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="sortedByStackTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -316,19 +314,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.DogAndCatQueueTest" />
-      <item itemvalue="JUnit.DogAndCatQueueTest (1)" />
       <item itemvalue="JUnit.GetMinStackTest.test" />
       <item itemvalue="JUnit.QueueOfStackTest.test" />
       <item itemvalue="JUnit.ReverseStackTest.test" />
+      <item itemvalue="JUnit.sortedByStackTest.test" />
+      <item itemvalue="JUnit.sortedByStackTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.sortedByStackTest" />
+        <item itemvalue="JUnit.sortedByStackTest.test" />
         <item itemvalue="JUnit.ReverseStackTest.test" />
         <item itemvalue="JUnit.QueueOfStackTest.test" />
         <item itemvalue="JUnit.GetMinStackTest.test" />
-        <item itemvalue="JUnit.DogAndCatQueueTest (1)" />
-        <item itemvalue="JUnit.DogAndCatQueueTest" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +342,7 @@
       <updated>1542897851838</updated>
       <workItem from="1542897856320" duration="5519000" />
       <workItem from="1596114617805" duration="4459000" />
-      <workItem from="1596290284172" duration="4713000" />
+      <workItem from="1596290284172" duration="7255000" />
     </task>
     <servers />
   </component>
