@@ -2,11 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03695dff-3be9-4e9a-9197-8a70b7ee22d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TEST/java/sortedByStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sortedByStack/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sortedByStack/SortedByStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TEST/java/LinkList/PrintCommonPartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkList/PrintCommonSortedLinkList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkList/PrintCommonSortedLinkList/PrintCommonPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkList/PrintCommonSortedLinkList/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/reveseStackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnAlgorithm/dog_and_cat_Queue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/java/DogAndCatQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/java/StackAndQueue/DogAndCatQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/java/GetMinStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/java/StackAndQueue/GetMinStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/java/QueueOfStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/java/StackAndQueue/QueueOfStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/java/ReverseStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/java/StackAndQueue/ReverseStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/java/sortedByStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/java/StackAndQueue/sortedByStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dog_and_cat_Queue/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/dog_and_cat_Queue/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dog_and_cat_Queue/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/dog_and_cat_Queue/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dog_and_cat_Queue/DogAndCatQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/dog_and_cat_Queue/DogAndCatQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dog_and_cat_Queue/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/dog_and_cat_Queue/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dog_and_cat_Queue/PetQUeue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/dog_and_cat_Queue/PetQUeue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dog_and_cat_Queue/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/dog_and_cat_Queue/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/getMinSatck/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/getMinSatck/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/getMinSatck/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/getMinSatck/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/queueOfStack/QueueOfStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/queueOfStack/QueueOfStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/queueOfStack/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/queueOfStack/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reverseStack/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/reverseStack/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reverseStack/ReverseStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/reverseStack/ReverseStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sortedByStack/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/sortedByStack/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sortedByStack/SortedByStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/sortedByStack/SortedByStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/QueueOfStack/QueueOfStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dog_and_cat_Queue/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dog_and_cat_Queue/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dog_and_cat_Queue/DogAndCatQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dog_and_cat_Queue/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dog_and_cat_Queue/PetQUeue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/getMinSatck/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reverseStack/ReverseStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sortedByStack/SortedByStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DogAndCatQueueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/GetMinStackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/QueueOfStackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ReverseStackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/sortedByStackTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +101,9 @@
       <recent name="TEST" />
       <recent name="dog_and_cat_Queue" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="StackAndQueue" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -86,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.sortedByStackTest">
+  <component name="RunManager" selected="JUnit.PrintCommonPartTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -191,21 +228,32 @@
       <setting name="depsClasspath" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="GetMinStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintCommonPartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GetMinStackTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LinkList" />
+      <option name="MAIN_CLASS_NAME" value="LinkList.PrintCommonPartTest" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueOfStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintCommonPartTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="QueueOfStackTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LinkList" />
+      <option name="MAIN_CLASS_NAME" value="LinkList.PrintCommonPartTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -215,8 +263,8 @@
     </configuration>
     <configuration name="ReverseStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReverseStackTest" />
+      <option name="PACKAGE_NAME" value="StackAndQueue" />
+      <option name="MAIN_CLASS_NAME" value="StackAndQueue.ReverseStackTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -233,8 +281,8 @@
     </configuration>
     <configuration name="sortedByStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="sortedByStackTest" />
+      <option name="PACKAGE_NAME" value="StackAndQueue" />
+      <option name="MAIN_CLASS_NAME" value="StackAndQueue.sortedByStackTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -243,8 +291,8 @@
     </configuration>
     <configuration name="sortedByStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="sortedByStackTest" />
+      <option name="PACKAGE_NAME" value="StackAndQueue" />
+      <option name="MAIN_CLASS_NAME" value="StackAndQueue.sortedByStackTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -314,19 +362,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.GetMinStackTest.test" />
-      <item itemvalue="JUnit.QueueOfStackTest.test" />
       <item itemvalue="JUnit.ReverseStackTest.test" />
       <item itemvalue="JUnit.sortedByStackTest.test" />
       <item itemvalue="JUnit.sortedByStackTest" />
+      <item itemvalue="JUnit.PrintCommonPartTest.test" />
+      <item itemvalue="JUnit.PrintCommonPartTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PrintCommonPartTest" />
+        <item itemvalue="JUnit.PrintCommonPartTest.test" />
         <item itemvalue="JUnit.sortedByStackTest" />
         <item itemvalue="JUnit.sortedByStackTest.test" />
         <item itemvalue="JUnit.ReverseStackTest.test" />
-        <item itemvalue="JUnit.QueueOfStackTest.test" />
-        <item itemvalue="JUnit.GetMinStackTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +390,8 @@
       <updated>1542897851838</updated>
       <workItem from="1542897856320" duration="5519000" />
       <workItem from="1596114617805" duration="4459000" />
-      <workItem from="1596290284172" duration="7255000" />
+      <workItem from="1596290284172" duration="8006000" />
+      <workItem from="1598704282300" duration="1228000" />
     </task>
     <servers />
   </component>
