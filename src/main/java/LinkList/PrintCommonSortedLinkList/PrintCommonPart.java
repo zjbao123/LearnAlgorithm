@@ -6,7 +6,7 @@ package LinkList.PrintCommonSortedLinkList;
  * @since 2020-08-29 20:38:15
  */
 public class PrintCommonPart {
-    public static void PrintCommonPart(Node part1,Node part2){
+    public static void printCommonPart(Node part1, Node part2){
         while(part1 != null && part2 != null){
             if(part1.getValue() == part2.getValue()){
                 System.out.println(part1.getValue());

@@ -18,6 +18,6 @@ public class PrintCommonPartTest {
         Node part2 = new Node(2);
         part2.setNext(new Node(3));
 
-        PrintCommonPart.PrintCommonPart(part1,part2);
+        PrintCommonPart.printCommonPart(part1,part2);
     }
 }
