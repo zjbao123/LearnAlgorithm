@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03695dff-3be9-4e9a-9197-8a70b7ee22d6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TEST/java/StackAndQueue/HannoiProblemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/HannoiProblem/HannoiMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/HannoiProblem/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TEST/java/LinkList/PrintCommonPartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/java/LinkList/PrintCommonPartTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LinkList/PrintCommonSortedLinkList/PrintCommonPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LinkList/PrintCommonSortedLinkList/PrintCommonPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LinkList/PrintCommonSortedLinkList/PrintCommonPart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LinkList/PrintCommonSortedLinkList/PrintCommonPart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LinkList/PrintCommonPartTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LinkList/PrintCommonPartTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PrintCommonPartTest">
+  <component name="RunManager" selected="JUnit.HannoiProblemTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -192,6 +195,39 @@
       <setting name="depsClasspath" value="false" />
       <method v="2" />
     </configuration>
+    <configuration name="HannoiProblemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StackAndQueue" />
+      <option name="MAIN_CLASS_NAME" value="StackAndQueue.HannoiProblemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HannoiProblemTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StackAndQueue" />
+      <option name="MAIN_CLASS_NAME" value="StackAndQueue.HannoiProblemTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintCommonPartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
       <extension name="coverage">
@@ -225,17 +261,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LearnAlgorithm" />
-      <option name="PACKAGE_NAME" value="StackAndQueue" />
-      <option name="MAIN_CLASS_NAME" value="StackAndQueue.ReverseStackTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -248,17 +273,6 @@
       <option name="PACKAGE_NAME" value="StackAndQueue" />
       <option name="MAIN_CLASS_NAME" value="StackAndQueue.sortedByStackTest" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sortedByStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LearnAlgorithm" />
-      <option name="PACKAGE_NAME" value="StackAndQueue" />
-      <option name="MAIN_CLASS_NAME" value="StackAndQueue.sortedByStackTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -326,19 +340,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ReverseStackTest.test" />
-      <item itemvalue="JUnit.sortedByStackTest.test" />
       <item itemvalue="JUnit.sortedByStackTest" />
       <item itemvalue="JUnit.PrintCommonPartTest.test" />
       <item itemvalue="JUnit.PrintCommonPartTest" />
+      <item itemvalue="JUnit.HannoiProblemTest.Test" />
+      <item itemvalue="JUnit.HannoiProblemTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HannoiProblemTest" />
+        <item itemvalue="JUnit.HannoiProblemTest.Test" />
         <item itemvalue="JUnit.PrintCommonPartTest" />
         <item itemvalue="JUnit.PrintCommonPartTest.test" />
         <item itemvalue="JUnit.sortedByStackTest" />
-        <item itemvalue="JUnit.sortedByStackTest.test" />
-        <item itemvalue="JUnit.ReverseStackTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +369,7 @@
       <workItem from="1542897856320" duration="5519000" />
       <workItem from="1596114617805" duration="4459000" />
       <workItem from="1596290284172" duration="8006000" />
-      <workItem from="1598704282300" duration="1940000" />
+      <workItem from="1598704282300" duration="5174000" />
     </task>
     <servers />
   </component>
