@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03695dff-3be9-4e9a-9197-8a70b7ee22d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TEST/java/StackAndQueue/HannoiProblemTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/HannoiProblem/HannoiMove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/HannoiProblem/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LinkList/PrintCommonSortedLinkList/PrintCommonPart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LinkList/PrintCommonSortedLinkList/PrintCommonPart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LinkList/PrintCommonPartTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LinkList/PrintCommonPartTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/java/StackAndQueue/HannoiProblemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/java/StackAndQueue/HannoiProblemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StackAndQueue/HannoiProblem/HannoiMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/HannoiProblem/HannoiMove.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +87,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HannoiProblemTest">
+  <component name="RunManager" selected="JUnit.HannoiProblemTest.Test">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -348,8 +345,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HannoiProblemTest" />
         <item itemvalue="JUnit.HannoiProblemTest.Test" />
+        <item itemvalue="JUnit.HannoiProblemTest" />
         <item itemvalue="JUnit.PrintCommonPartTest" />
         <item itemvalue="JUnit.PrintCommonPartTest.test" />
         <item itemvalue="JUnit.sortedByStackTest" />
@@ -369,7 +366,8 @@
       <workItem from="1542897856320" duration="5519000" />
       <workItem from="1596114617805" duration="4459000" />
       <workItem from="1596290284172" duration="8006000" />
-      <workItem from="1598704282300" duration="5174000" />
+      <workItem from="1598704282300" duration="5227000" />
+      <workItem from="1598793849473" duration="2931000" />
     </task>
     <servers />
   </component>

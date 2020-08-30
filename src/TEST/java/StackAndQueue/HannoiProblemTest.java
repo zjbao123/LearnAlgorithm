@@ -11,7 +11,9 @@ import org.junit.Test;
 public class HannoiProblemTest {
     @Test
     public void Test(){
-       int result = HannoiMove.process(2,"left", "right");
+       int result = HannoiMove.process1(2);
+        assert(result == 8);
+         result = HannoiMove.process2(2);
         assert(result == 8);
     }
 }
