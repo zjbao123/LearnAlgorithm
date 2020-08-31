@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03695dff-3be9-4e9a-9197-8a70b7ee22d6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TEST/java/StackAndQueue/WindowMaxvalueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/WindowMaxValue/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/WindowMaxValue/WindowMaxValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TEST/java/StackAndQueue/HannoiProblemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/java/StackAndQueue/HannoiProblemTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StackAndQueue/HannoiProblem/HannoiMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/HannoiProblem/HannoiMove.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.21323529" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
@@ -87,7 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HannoiProblemTest.Test">
+  <component name="RunManager" selected="JUnit.WindowMaxvalueTest.test">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -241,16 +242,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintCommonPartTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WindowMaxvalueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkList.*" />
+          <option name="PATTERN" value="StackAndQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LinkList" />
-      <option name="MAIN_CLASS_NAME" value="LinkList.PrintCommonPartTest" />
+      <option name="PACKAGE_NAME" value="StackAndQueue" />
+      <option name="MAIN_CLASS_NAME" value="StackAndQueue.WindowMaxvalueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowMaxvalueTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StackAndQueue" />
+      <option name="MAIN_CLASS_NAME" value="StackAndQueue.WindowMaxvalueTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -259,16 +276,6 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sortedByStackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LearnAlgorithm" />
-      <option name="PACKAGE_NAME" value="StackAndQueue" />
-      <option name="MAIN_CLASS_NAME" value="StackAndQueue.sortedByStackTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -337,19 +344,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.sortedByStackTest" />
-      <item itemvalue="JUnit.PrintCommonPartTest.test" />
       <item itemvalue="JUnit.PrintCommonPartTest" />
       <item itemvalue="JUnit.HannoiProblemTest.Test" />
       <item itemvalue="JUnit.HannoiProblemTest" />
+      <item itemvalue="JUnit.WindowMaxvalueTest" />
+      <item itemvalue="JUnit.WindowMaxvalueTest.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WindowMaxvalueTest.test" />
+        <item itemvalue="JUnit.WindowMaxvalueTest" />
         <item itemvalue="JUnit.HannoiProblemTest.Test" />
         <item itemvalue="JUnit.HannoiProblemTest" />
         <item itemvalue="JUnit.PrintCommonPartTest" />
-        <item itemvalue="JUnit.PrintCommonPartTest.test" />
-        <item itemvalue="JUnit.sortedByStackTest" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +374,8 @@
       <workItem from="1596114617805" duration="4459000" />
       <workItem from="1596290284172" duration="8006000" />
       <workItem from="1598704282300" duration="5227000" />
-      <workItem from="1598793849473" duration="2931000" />
+      <workItem from="1598793849473" duration="3022000" />
+      <workItem from="1598797461881" duration="4276000" />
     </task>
     <servers />
   </component>
