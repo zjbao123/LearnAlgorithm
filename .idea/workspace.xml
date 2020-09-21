@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03695dff-3be9-4e9a-9197-8a70b7ee22d6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxTree/MaxTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxTree/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxTree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxTree/README.md" afterDir="false" />
     </list>
@@ -374,6 +376,7 @@
       <workItem from="1598704282300" duration="5227000" />
       <workItem from="1598793849473" duration="3022000" />
       <workItem from="1598797461881" duration="5001000" />
+      <workItem from="1600614797543" duration="2261000" />
     </task>
     <servers />
   </component>
