@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03695dff-3be9-4e9a-9197-8a70b7ee22d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxTree/MaxTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TEST/java/Sorts/SortsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sorts/Sorts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxTree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StackAndQueue/MaxTree/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algo-master/java" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.21323529" />
@@ -88,7 +87,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WindowMaxvalueTest.test">
+  <component name="RunManager" selected="JUnit.SortsTest.test2">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -193,50 +192,51 @@
       <setting name="depsClasspath" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="HannoiProblemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="PATTERN" value="Sorts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="StackAndQueue" />
-      <option name="MAIN_CLASS_NAME" value="StackAndQueue.HannoiProblemTest" />
+      <option name="PACKAGE_NAME" value="Sorts" />
+      <option name="MAIN_CLASS_NAME" value="Sorts.SortsTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HannoiProblemTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortsTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="PATTERN" value="Sorts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="StackAndQueue" />
-      <option name="MAIN_CLASS_NAME" value="StackAndQueue.HannoiProblemTest" />
-      <option name="METHOD_NAME" value="Test" />
+      <option name="PACKAGE_NAME" value="Sorts" />
+      <option name="MAIN_CLASS_NAME" value="Sorts.SortsTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintCommonPartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortsTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkList.*" />
+          <option name="PATTERN" value="Sorts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="LinkList" />
-      <option name="MAIN_CLASS_NAME" value="LinkList.PrintCommonPartTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="Sorts" />
+      <option name="MAIN_CLASS_NAME" value="Sorts.SortsTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -344,19 +344,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.PrintCommonPartTest" />
-      <item itemvalue="JUnit.HannoiProblemTest.Test" />
-      <item itemvalue="JUnit.HannoiProblemTest" />
       <item itemvalue="JUnit.WindowMaxvalueTest" />
       <item itemvalue="JUnit.WindowMaxvalueTest.test" />
+      <item itemvalue="JUnit.SortsTest.test" />
+      <item itemvalue="JUnit.SortsTest" />
+      <item itemvalue="JUnit.SortsTest.test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SortsTest.test2" />
+        <item itemvalue="JUnit.SortsTest" />
+        <item itemvalue="JUnit.SortsTest.test" />
         <item itemvalue="JUnit.WindowMaxvalueTest.test" />
         <item itemvalue="JUnit.WindowMaxvalueTest" />
-        <item itemvalue="JUnit.HannoiProblemTest.Test" />
-        <item itemvalue="JUnit.HannoiProblemTest" />
-        <item itemvalue="JUnit.PrintCommonPartTest" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +376,8 @@
       <workItem from="1598704282300" duration="5227000" />
       <workItem from="1598793849473" duration="3022000" />
       <workItem from="1598797461881" duration="5001000" />
-      <workItem from="1600614797543" duration="2261000" />
+      <workItem from="1600614797543" duration="2417000" />
+      <workItem from="1602059673581" duration="2916000" />
     </task>
     <servers />
   </component>
