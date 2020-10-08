@@ -18,11 +18,19 @@ public class SortsTest {
     }
     @Test
     public void test2(){
-        int[] arrs = {5,4,6,3,2,1};
+        int[] arrs = {5,4,6,1,2,8};
         Sorts.bubbleSort2(arrs);
         for (int a: arrs) {
             System.out.print(a+"\t");
         }
     }
 
+    @Test
+    public void test3(){
+        int[] arrs = {5,4,6,9,2,7};
+        Sorts.insertSort(arrs);
+        for (int a: arrs) {
+            System.out.print(a+"\t");
+        }
+    }
 }

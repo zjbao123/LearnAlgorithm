@@ -38,14 +38,15 @@ public class Sorts {
 
     /**
      * 冒泡改进版 ，记录上一次的边界值减少比较次数
+     *
      * @param arrs
      */
-    public static void bubbleSort2(int[] arrs){
+    public static void bubbleSort2(int[] arrs) {
         if (arrs == null || arrs.length <= 1) {
             return;
         }
         int length = arrs.length;
-        int border = length -1;
+        int border = length - 1;
         int tempBorder = 0;
         for (int i = 0; i < length; i++) {
             boolean flag = false;
@@ -66,4 +67,54 @@ public class Sorts {
 
         }
     }
+
+    /**
+     * 插入排序,注意用临时变量保存i值
+     *
+     * @param arrs
+     */
+    public static void insertSort(int[] arrs) {
+        if (arrs == null || arrs.length <= 1) {
+            return;
+        }
+        int length = arrs.length;
+        for (int i = 1; i < length; i++) {
+            int value = arrs[i];
+            int j = i - 1;
+            for (; j >= 0; j--) {
+                if (arrs[j] < value) {
+                    arrs[j+1] = arrs[j];
+                }else{
+                    break;
+                }
+            }
+            arrs[j+1] = value;
+        }
+    }
+
+    /**
+     * 选择排序
+     * @param arrs
+     */
+    public static void selectSort(int[] arrs) {
+        if (arrs == null || arrs.length <= 1) {
+            return;
+        }
+        int length = arrs.length;
+        for(int i = 0; i<length-1; i++){
+
+            int minIndex = i;
+            for(int j = i;j< length;j++){
+                if(arrs[j] < arrs[minIndex]){
+                    minIndex = j;
+                }
+            }
+
+            int tmp = arrs[minIndex];
+            arrs[minIndex] = arrs[i];
+            arrs[i] = tmp;
+        }
+    }
 }
+
+
