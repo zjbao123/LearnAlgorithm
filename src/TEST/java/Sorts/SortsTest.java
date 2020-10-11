@@ -42,4 +42,13 @@ public class SortsTest {
             System.out.print(a+"\t");
         }
     }
+
+    @Test
+    public void test5(){
+        int[] arrs = {5,4,6,9,2,7};
+        Sorts.quickSort(arrs);
+        for (int a: arrs) {
+            System.out.print(a+"\t");
+        }
+    }
 }
