@@ -33,4 +33,13 @@ public class SortsTest {
             System.out.print(a+"\t");
         }
     }
+
+    @Test
+    public void test4(){
+        int[] arrs = {5,4,6,9,2,7};
+        Sorts.mergeSort(arrs);
+        for (int a: arrs) {
+            System.out.print(a+"\t");
+        }
+    }
 }

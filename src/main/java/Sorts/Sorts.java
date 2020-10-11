@@ -115,6 +115,53 @@ public class Sorts {
             arrs[i] = tmp;
         }
     }
+
+    /**
+     * 归并排序
+     * @param arrs
+     */
+    public static void mergeSort(int[] arrs){
+        mergeSort(arrs,0,arrs.length-1);
+    }
+
+    public static void mergeSort(int[] arrs, int head, int tail){
+        if(head >= tail){
+            return;
+        }
+        int middle = (tail + head)/2;
+        mergeSort(arrs,head, middle);
+        mergeSort(arrs,middle+1, tail);
+        merge(arrs,head,tail);
+    }
+
+    public static void merge(int[] arrs, int head, int tail){
+
+        int middle = (tail + head)/2;
+        int[] headArrs =new int[middle - head + 2];
+        int[] tailArrs =new int[tail - middle + 1];
+
+        for(int i = head; i<=middle; i++){
+            headArrs[i - head]  = arrs[i];
+        }
+
+        for(int i = middle+1; i<=tail; i++){
+            tailArrs[i - middle-1]  = arrs[i];
+        }
+        headArrs[middle-head+1] = Integer.MIN_VALUE;
+        tailArrs[tail - middle] = Integer.MIN_VALUE;
+
+        int m =0;
+        int n = 0;
+        for(int i = head; i<=tail; i++){
+            if(headArrs[m] < tailArrs[n]){
+                arrs[i] = tailArrs[n++];
+            }else{
+                arrs[i] = headArrs[m++];
+            }
+        }
+    }
+
 }
+
 
 

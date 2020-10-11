@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03695dff-3be9-4e9a-9197-8a70b7ee22d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TEST/java/Sorts/SortsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sorts/Sorts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TEST/java/Sorts/SortsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TEST/java/Sorts/SortsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Sorts/Sorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sorts/Sorts.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +87,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SortsTest.test3">
+  <component name="RunManager" selected="JUnit.SortsTest.test4">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -259,17 +259,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowMaxvalueTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortsTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAlgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StackAndQueue.*" />
+          <option name="PATTERN" value="Sorts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="StackAndQueue" />
-      <option name="MAIN_CLASS_NAME" value="StackAndQueue.WindowMaxvalueTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="Sorts" />
+      <option name="MAIN_CLASS_NAME" value="Sorts.SortsTest" />
+      <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -345,19 +345,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.WindowMaxvalueTest.test" />
       <item itemvalue="JUnit.SortsTest.test" />
       <item itemvalue="JUnit.SortsTest" />
       <item itemvalue="JUnit.SortsTest.test2" />
       <item itemvalue="JUnit.SortsTest.test3" />
+      <item itemvalue="JUnit.SortsTest.test4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SortsTest.test4" />
         <item itemvalue="JUnit.SortsTest.test3" />
         <item itemvalue="JUnit.SortsTest.test2" />
         <item itemvalue="JUnit.SortsTest" />
         <item itemvalue="JUnit.SortsTest.test" />
-        <item itemvalue="JUnit.WindowMaxvalueTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +378,8 @@
       <workItem from="1598793849473" duration="3022000" />
       <workItem from="1598797461881" duration="5001000" />
       <workItem from="1600614797543" duration="2417000" />
-      <workItem from="1602059673581" duration="6638000" />
+      <workItem from="1602059673581" duration="6712000" />
+      <workItem from="1602423171067" duration="2134000" />
     </task>
     <servers />
   </component>
